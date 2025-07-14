@@ -34,6 +34,7 @@ Le projet est structuré en trois étapes majeures :
 ## Organisation du dépôt
 
 Data-Science-Projects/
+
 │
 ├── cats-dogs-classification/
 │ ├── cats-dogs-classification.ipynb # Notebook principal du projet
